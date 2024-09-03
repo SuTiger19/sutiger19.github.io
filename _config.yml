@@ -10,25 +10,24 @@ name: Sudeep Saurabh
 title: Cloud Engineering & Devops
 email: sudeepsaurabhss@gmail.com
 # email_title: Email (Email title override)
-phone: 6472415729 
+phone: 6472415729
 # phone_title: Phone (Phone title override)
 website: sudeepsaurabh.com
-# website_title: Web (Website title override)
+# website_title: Website (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 
-github_username:  SuTiger19
+github_username: SuTiger19
 linkedin_username: sudeep-saurabh19
-
 
 # Additional icon links
 #additional_links:
 #- title: Link name
- # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
- # url: Link url (eg. https://google.com)
+# icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+# url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +45,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Sudeep Saurabh. I am a software engineer with a solid background in web development and Android development. I have extensive experience in DevOps and cloud engineering, and I am eager to further my career in these fields, as well as in solution architecture. I am proud to have earned gold medals in the prestigious national and state-level competitions, Skills Canada 2024 and Skills Ontario 2024
 
 content:
-
   - title: Experience
     layout: list
     content:
@@ -55,38 +53,36 @@ content:
         sub_title: Web Developers and  Administrators
         caption: 07/2023 to 06/2024
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-building
             url: https://www.avmservicesindia.com/index.php
         quote: >
-          AVM Services specializes in providing Total Facility Management Services in India across sectors such as Corporate, Industrial, Retail, and Hospitality, ensuring exceptional quality, reliability, and customer satisfaction 
-        description: | # this will include new lines to allow paragraphs I had update there wesbite, as it incomplete by last web devloper 
+          AVM Services specializes in providing Total Facility Management Services in India across sectors such as Corporate, Industrial, Retail, and Hospitality, ensuring exceptional quality, reliability, and customer satisfaction
+        description:
+          | # this will include new lines to allow paragraphs I had update there wesbite, as it incomplete by last web devloper
 
-        
-        
       - layout: left
         title: Isophote
         sub_title: Information Technology Management Consultant
         caption: 06/2021 to 07/2021
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-building
             url: https://ae.linkedin.com/company/isophotehq
 
         quote: >
           Isophote worked on connecting students' interest in pursuing STEM research as their career path with research professors. Supervision, collaboration, learning, and building - all in one place.
-        description: | 
+        description: |
           Designed and developed the company's website, incorporating both front-end and back-end technologies to optimize user experience and functionality.
           Participated in management meetings, providing critical IT insights and analyses that influenced strategic decisions and supported business growth.
           Assisted in operational tasks, including interviewing candidates and managing project timelines, demonstrating strong leadership and adaptability in a dynamic startup environment.
 
-        
   - title: Education
     layout: list
     content:
       - layout: top-left
         title: Seneca Polytechnic
-        sub_title: Project Management - Information Technology 
+        sub_title: Project Management - Information Technology
         caption: May 2024- Dec 2024
         quote: >
 
@@ -104,17 +100,15 @@ content:
         sub_title: B.Tech  Electronics & Communication Engineering
         caption: Aug 2019 - June 2023
         quote: >
-          Delhi Technological University (DTU), formerly Delhi College of Engineering (DCE) is a state university in Rohini, Delhi, India. It was established in 1941 as Delhi Polytechnic. It consider as Tier 1 Universities , rank among top Engineering Universities in India.  
+          Delhi Technological University (DTU), formerly Delhi College of Engineering (DCE) is a state university in Rohini, Delhi, India. It was established in 1941 as Delhi Polytechnic. It consider as Tier 1 Universities , rank among top Engineering Universities in India.
         description: | # this will include new lines to allow paragraphs
           I have gotten a BTech in Electronics and Communication Engineering, where I gained a solid foundation in both theoretical and practical aspects of the field. My coursework covered electronic instrumentation, analog and digital electronics, signal processing, communication systems, and embedded systems. I developed skills in designing and analyzing electronic circuits, implementing communication protocols, and programming microprocessors.
-  
+
   - title: Achievements
     layout: list
     content:
-
-
       - layout: top-left
-        title: Gold Medal 
+        title: Gold Medal
         sub_title: Skills Ontario
         caption: 2024
         description: | # this will include new lines to allow paragraphs
@@ -123,9 +117,9 @@ content:
               <img src="images\SkillsOn.png" alt="Photo 1" style="width: 30%;"/>
               <img src="images\SkillsOntario_Prof.jpeg" alt="Photo 2" style="width: 30%;"/>
               <img src="images\Skill Ontario Time.png" alt="Photo 3" style="width: 30%;"/>
-          </div>      
+          </div>
       - layout: top-left
-        title: Gold Medal 
+        title: Gold Medal
         sub_title: Skills Canada
 
         caption: 2024
@@ -137,69 +131,66 @@ content:
               <img src="images\LastDaySkillsCanada.jpeg" alt="Photo 3" style="width: 30%;"/>
           </div>
 
-
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border:
+          weak # Value of `weak` will display a weak border below this item. # Any
+          # other value (or no value) means no border will be displayed
         title: Full-Stack DevOps Implementation with CI/CD and Cloud Services
         link: https://github.com/SuTiger19/Full-Stack-DevOps-Implementation-with-CICD-and-Cloud-Services
         link_text: github/SuTiger19
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/SuTiger19/Full-Stack-DevOps-Implementation-with-CICD-and-Cloud-Services
 
         quote: >
           This project demonstrates a comprehensive CI/CD pipeline that manages the full lifecycle of a Flask application—from image creation using GitHub Actions to deployment on Amazon Web Services (AWS) serivces (EKS and ECS) using Docker, Kubernetes, and Terraform.
         description: | # this will include new lines to allow paragraphs
-            I implemented continuous integration (CI/CD) using GitHub Actions to automate testing and Docker image creation for a Flask application that was split between the front-end and a SQL back-end. Additionally, I leveraged Terraform for provisioning AWS EC2 instances, configuring Docker environments, and managing Kubernetes clusters via Kind for local testing and AWS EKS for production deployment. 
-            The application was deployed on AWS ECS as well with Fargate to ensure scalable application deployment, while AWS RDS was used for database management, ensuring high availability and security.
+          I implemented continuous integration (CI/CD) using GitHub Actions to automate testing and Docker image creation for a Flask application that was split between the front-end and a SQL back-end. Additionally, I leveraged Terraform for provisioning AWS EC2 instances, configuring Docker environments, and managing Kubernetes clusters via Kind for local testing and AWS EKS for production deployment. 
+          The application was deployed on AWS ECS as well with Fargate to ensure scalable application deployment, while AWS RDS was used for database management, ensuring high availability and security.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border:
+          weak # Value of `weak` will display a weak border below this item. # Any
+          # other value (or no value) means no border will be displayed
         title: Full-Two-Tier DevOps Project with Ansible and Terraform
         link: https://github.com/SuTiger19/Two-Tier-Devops-Project-with-Ansible-and-Terrafrom
         link_text: github/SuTiger19
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/SuTiger19/Two-Tier-Devops-Project-with-Ansible-and-Terrafrom
 
         quote: >
-           Deployed a scalable, secure AWS infrastructure for web applications using Terraform, Ansible, and AWS services. 
+          Deployed a scalable, secure AWS infrastructure for web applications using Terraform, Ansible, and AWS services.
         description: | # this will include new lines to allow paragraphs
           I designed and deployed a resilient AWS infrastructure using Terraform, incorporating an Application Load Balancer (ALB), Auto Scaling Groups (ASG), NAT Gateway, and Bastion Host to ensure scalability and secure access. 
           I automated the deployment of a web application on EC2 instances using Ansible, integrating content delivery from S3 buckets. Additionally, I implemented state locking with AWS DynamoDB to manage concurrency and ensure consistent infrastructure updates.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border:
+          weak # Value of `weak` will display a weak border below this item. # Any
+          # other value (or no value) means no border will be displayed
         title: Helping Local Businesses by using IoT Embedded Systems
         link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAZwHkEAAAAJ&citation_for_view=iAZwHkEAAAAJ:u5HHmVD_uO8C
         link_text: github/SuTiger19
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/ritlo/iot-business
         quote: >
-          Final Year B.Tech Project. In these project we build protype to help local business around India to implemention technology without having worry about risky investment. 
+          Final Year B.Tech Project. In these project we build protype to help local business around India to implemention technology without having worry about risky investment.
         description: |
           Designed and developed an IoT Embedded System for automatically collecting information from business locations such as customer traffic and demographics and uploading the collected information to a database which displays an overview of all businesses connected to the system. 
           I have also developed an Android app client which displays the collected information of the day, and receives alarm notifications from the location’s security systems.
 
-
-
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I enjoy learning, and complex propblem solving. 
-
+      I enjoy learning, and complex propblem solving.
 
 # Footer
 footer_show_references: true
@@ -213,4 +204,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
