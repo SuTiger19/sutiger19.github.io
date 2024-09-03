@@ -41,7 +41,7 @@ linkedin_username: sudeep-saurabh19
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images\profic_photo.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Sudeep Saurabh. I am a software engineer with a solid background in web development and Android development. I have extensive experience in DevOps and cloud engineering, and I am eager to further my career in these fields, as well as in solution architecture. I am proud to have earned gold medals in the prestigious national and state-level competitions, Skills Canada 2024 and Skills Ontario 2024
 
