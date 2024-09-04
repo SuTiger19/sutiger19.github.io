@@ -40,7 +40,7 @@ linkedin_username: sudeep-saurabh19
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images\profic_photo.jpeg
+about_profile_image: "images\profic_photo.jpeg"
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Sudeep Saurabh. I am a software engineer with a solid background in web development and Android development. I have extensive experience in DevOps and cloud engineering, and I am eager to further my career in these fields, as well as in solution architecture. I am proud to have earned gold medals in the prestigious national and state-level competitions, Skills Canada 2024 and Skills Ontario 2024
 
@@ -58,8 +58,7 @@ content:
             url: https://www.avmservicesindia.com/index.php
         quote: >
           AVM Services specializes in providing Total Facility Management Services in India across sectors such as Corporate, Industrial, Retail, and Hospitality, ensuring exceptional quality, reliability, and customer satisfaction
-        description:
-          | # this will include new lines to allow paragraphs I had update there wesbite, as it incomplete by last web devloper
+        description: I designed and developed an Employee Management System to address the challenge of fragmented employee data management. Previously, the company relied on a combination of paper records and Excel spreadsheets, which made tracking employee assignments and retrieving information both time-consuming and error-prone. By creating a centralized digital platform, I streamlined the entire process, reducing data retrieval times by 40%. This new system provided real-time tracking of employee assignments across various services, such as cleaning and security, significantly improving operational efficiency and enhancing data accessibility.
 
       - layout: left
         title: Isophote
@@ -80,7 +79,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Seneca Polytechnic
         sub_title: Project Management - Information Technology
         caption: May 2024- Dec 2024
@@ -88,14 +87,14 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           Currently part of Project Management Pogram at Seneca. This program taught me when to apply various IT methodologies, including Scrum and Agile, and refined my project management skills. Coursework included IT project management fundamentals, business systems environments, systems development, project leadership, finance, advanced IT project management, contract law, ethics, quality assurance, and case studies. It also offered an optional work term for practical experience in the IT sector.
-      - layout: top-left
+      - layout: left
         title: Seneca Polytechnic
         sub_title: Cloud Architecture & Administration
         caption: Sep 2023 - April 2024
         quote: >
         description: | # this will include new lines to allow paragraphs
           I was part of  Cloud Architecture & Administration program in Seneca. I gained hands-on experience with Terraform and Ansible, studied cloud infrastructure and architecture for both Azure and AWS, and learned data storage, ethics, compliance, and risk management. My coursework included security management, focusing on Zero Trust Architecture, and a capstone project on migrating systems from on-premises to AWS. I also studied hybrid cloud integration with Azure, Docker and Kubernetes, project management tools, and incident response and forensics.
-      - layout: top-left
+      - layout: left
         title: Delhi Technological University
         sub_title: B.Tech  Electronics & Communication Engineering
         caption: Aug 2019 - June 2023
@@ -107,9 +106,9 @@ content:
   - title: Achievements
     layout: list
     content:
-      - layout: top-left
-        title: Gold Medal
-        sub_title: Skills Ontario
+      - layout: left
+        title: Gold Medal at Skills Ontario
+        sub_title:
         caption: 2024
         description: | # this will include new lines to allow paragraphs
           I  competed in a cloud computing contest focused on developing IT infrastructure in a AWS cloud environment. The competition was based on AWS Jam, where participants tackled technical challenges across various domains like security, DevOps, and data analytics.  I completed 8 challenges without using any clues, all within 45 minutes, and won the gold medal, showcasing my expertise in cloud computing.
@@ -118,7 +117,7 @@ content:
               <img src="images\SkillsOntario_Prof.jpeg" alt="Photo 2" style="width: 30%;"/>
               <img src="images\Skill Ontario Time.png" alt="Photo 3" style="width: 30%;"/>
           </div>
-      - layout: top-left
+      - layout: left
         title: Gold Medal
         sub_title: Skills Canada
 
