@@ -40,7 +40,7 @@ linkedin_username: sudeep-saurabh19
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images\profic_photo.png
+about_profile_image: images/profic_photo.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Sudeep Saurabh. I am a software engineer with a solid background in web development and Android development. I have extensive experience in DevOps and cloud engineering, and I am eager to further my career in these fields, as well as in solution architecture. I am proud to have earned gold medals in the prestigious national and state-level competitions, Skills Canada 2024 and Skills Ontario 2024
 
@@ -186,10 +186,10 @@ content:
           Designed and developed an IoT Embedded System for automatically collecting information from business locations such as customer traffic and demographics and uploading the collected information to a database which displays an overview of all businesses connected to the system. 
           I have also developed an Android app client which displays the collected information of the day, and receives alarm notifications from the location’s security systems.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      I enjoy learning, and complex propblem solving.
+ # - title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+
 
 # Footer
 footer_show_references: true
