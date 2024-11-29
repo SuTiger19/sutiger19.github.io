@@ -13,7 +13,6 @@ email: sudeepsaurabhss@gmail.com
 
 website: sudeepsaurabh.com
 # website_title: Website (Website title override)
-
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -48,32 +47,37 @@ content:
     layout: list
     content:
       - layout: left
-        title: AVM Services
-        sub_title: Web Developers and  Administrators
-        caption: 07/2023 to 06/2024
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-building
-            url: https://www.avmservicesindia.com/index.php
+        title: Consulate General of India
+        sub_title: Automation Engineer (Internship)
+        caption: 09/2024 to Present
+        additional_links: https://www.cgitoronto.gov.in/
         quote: >
-          AVM Services specializes in providing Total Facility Management Services in India across sectors such as Corporate, Industrial, Retail, and Hospitality, ensuring exceptional quality, reliability, and customer satisfaction
-        description: I designed and developed an Employee Management System to address the challenge of fragmented employee data management. Previously, the company relied on a combination of paper records and Excel spreadsheets, which made tracking employee assignments and retrieving information both time-consuming and error-prone. By creating a centralized digital platform, I streamlined the entire process, reducing data retrieval times by 40%. This new system provided real-time tracking of employee assignments across various services, such as cleaning and security, significantly improving operational efficiency and enhancing data accessibility.
+          Leveraging automation and scripting expertise to enhance operational efficiency and data management at the Consulate General of India in Toronto.
+        description: >
+          At the Consulate General of India in Toronto, I worked on simplifying how data was handled across departments. I used PowerShell scripts to automatically download Excel files, saving hours of manual effort. Once the data was in place, I created Excel macros to clean, sort, and organize it into tables that were ready for reporting. This combination of automation and streamlined processes reduced repetitive tasks, improved data accuracy, and made sharing insights between departments much easier.
 
       - layout: left
-        title: Isophote
-        sub_title: Information Technology Management Consultant
-        caption: 06/2021 to 07/2021
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-building
-            url: https://ae.linkedin.com/company/isophotehq
-
+        title: Seneca Hackathon
+        sub_title: Team Lead and Developer (Volunteer Experience)
+        caption: 10/2024 to Present
+        additional_links: https://www.senecahackathon.com
         quote: >
-          Isophote worked on connecting students' interest in pursuing STEM research as their career path with research professors. Supervision, collaboration, learning, and building - all in one place.
-        description: |
-          Designed and developed the company's website, incorporating both front-end and back-end technologies to optimize user experience and functionality.
-          Participated in management meetings, providing critical IT insights and analyses that influenced strategic decisions and supported business growth.
-          Assisted in operational tasks, including interviewing candidates and managing project timelines, demonstrating strong leadership and adaptability in a dynamic startup environment.
+          Driving innovation and collaboration as part of the Seneca Hackathon organization, delivering impactful digital solutions.
+        description: >
+          As part of the Seneca Hackathon team, I took on the challenge of managing technical and organizational aspects. I worked closely with the team to gather requirements and map out plans that made sense for everyone involved. My main project was creating a website using Next.js for the frontend and Node.js for backend integration. The goal was to make the platform easy to use and accessible, ensuring everything—from registrations to updates—ran smoothly. It’s been rewarding to see how the platform brought the event to life.
+
+      - layout: left
+        title: AVM Services
+        sub_title: Web Developer and Administrator
+        caption: 07/2023 to 06/2024
+        additional_links:
+          - title: Company Website
+            icon: fab fa-building
+            url: []
+        quote: >
+          AVM Services specializes in providing Total Facility Management Services in India across sectors such as Corporate, Industrial, Retail, and Hospitality, ensuring exceptional quality, reliability, and customer satisfaction.
+        description: >
+          At AVM Services, I built a digital platform that made it easier to manage service bookings for the company’s clients. Using tools like Go for the backend and React for the frontend, I designed a system that allowed users to book, manage, and track services effortlessly. The platform replaced old processes like manual paperwork and scattered spreadsheets, making day-to-day operations quicker and more reliable. It was exciting to see how it helped both the company and its clients save time and avoid headaches.
 
   - title: Education
     layout: list
@@ -185,10 +189,9 @@ content:
           Designed and developed an IoT Embedded System for automatically collecting information from business locations such as customer traffic and demographics and uploading the collected information to a database which displays an overview of all businesses connected to the system. 
           I have also developed an Android app client which displays the collected information of the day, and receives alarm notifications from the location’s security systems.
 
- # - title: A Little More About Me
+  # - title: A Little More About Me
   #  layout: text
   #  content: | # this will include new lines to allow paragraphs
-
 
 # Footer
 footer_show_references: true
