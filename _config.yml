@@ -54,7 +54,7 @@ content:
         quote: >
           Leveraging automation and scripting expertise to enhance operational efficiency and data management at the Consulate General of India in Toronto.
         description: >
-          At the Consulate General of India in Toronto, I worked on simplifying how data was handled across departments. I used PowerShell scripts to automatically download Excel files, saving hours of manual effort. Once the data was in place, I created Excel macros to clean, sort, and organize it into tables that were ready for reporting. This combination of automation and streamlined processes reduced repetitive tasks, improved data accuracy, and made sharing insights between departments much easier.
+          At the Consulate General of India in Toronto, I streamlined data management by automating repetitive processes. I developed PowerShell scripts to download Excel files automatically, eliminating hours of manual work. Once the data was downloaded, I used Excel macros to clean, organize, and format it into ready-to-use tables for reporting. Additionally, I contributed to a simplified internal website to ensure smooth data access and visualization, reducing dependency on manual reporting and improving workflow efficiency. This combination of automation and user-friendly tools significantly enhanced data accuracy and sharing across departments.
 
       - layout: left
         title: Seneca Hackathon
@@ -77,7 +77,7 @@ content:
         quote: >
           AVM Services specializes in providing Total Facility Management Services in India across sectors such as Corporate, Industrial, Retail, and Hospitality, ensuring exceptional quality, reliability, and customer satisfaction.
         description: >
-          At AVM Services, I built a digital platform that made it easier to manage service bookings for the company’s clients. Using tools like Go for the backend and React for the frontend, I designed a system that allowed users to book, manage, and track services effortlessly. The platform replaced old processes like manual paperwork and scattered spreadsheets, making day-to-day operations quicker and more reliable. It was exciting to see how it helped both the company and its clients save time and avoid headaches.
+          At AVM Services, I built a full-stack digital platform to modernize service booking management. Using Go for the backend and Angular for the frontend, I created a system that allowed users to book and manage services seamlessly. The platform replaced outdated processes like manual paperwork and scattered spreadsheets, leading to faster operations, a reliable user experience, and streamlined workflows for both the company and its clients.
 
   - title: Education
     layout: list
