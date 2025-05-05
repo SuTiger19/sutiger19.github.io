@@ -40,7 +40,7 @@ linkedin_username: sudeep-saurabh19
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profic_photo.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Sudeep Saurabh. I am a software engineer with a solid background in web development and Android development. I have extensive experience in DevOps and cloud engineering, and I am eager to further my career in these fields, as well as in solution architecture. I am proud to have earned gold medals in the prestigious national and state-level competitions, Skills Canada 2024 and Skills Ontario 2024
+  Hi, my name is Sudeep Saurabh. I am a software engineer with a solid background in cloud & web development. I am 4x AWS Certified and 2x HashiCrop-Terraform Certified.  I have experience in DevOps and cloud engineering, and I am eager to further my career in these fields. I am proud to have earned gold medals in the prestigious national and state-level competitions, Skills Canada 2024 and Skills Ontario 2024. 
 
 content:
   - title: Experience
@@ -48,7 +48,7 @@ content:
     content:
       - layout: left
         title: Consulate General of India
-        sub_title: Automation Engineer (Internship)
+        sub_title: Software Engineer Intern
         caption: 09/2024 to Present
         additional_links: https://www.cgitoronto.gov.in/
         quote: >
@@ -110,17 +110,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: Gold Medal at Skills Ontario
-        sub_title:
-        caption: 2024
-        description: | # this will include new lines to allow paragraphs
-          I  competed in a cloud computing contest focused on developing IT infrastructure in a AWS cloud environment. The competition was based on AWS Jam, where participants tackled technical challenges across various domains like security, DevOps, and data analytics.  I completed 8 challenges without using any clues, all within 45 minutes, and won the gold medal, showcasing my expertise in cloud computing.
-          <div style="display: flex; justify-content: space-between;">
-              <img src="images\SkillsOn.png" alt="Photo 1" style="width: 30%;"/>
-              <img src="images\SkillsOntario_Prof.jpeg" alt="Photo 2" style="width: 30%;"/>
-              <img src="images\Skill Ontario Time.png" alt="Photo 3" style="width: 30%;"/>
-          </div>
-      - layout: left
         title: Gold Medal
         sub_title: Skills Canada
 
@@ -132,6 +121,18 @@ content:
               <img src="images\WinningCircle.jpg" alt="Photo 2" style="width: 30%;"/>
               <img src="images\LastDaySkillsCanada.jpeg" alt="Photo 3" style="width: 30%;"/>
           </div>
+      - layout: left
+        title: Gold Medal  
+        sub_title: Skills Ontario
+        caption: 2024
+        description: | # this will include new lines to allow paragraphs
+          I  competed in a cloud computing contest focused on developing IT infrastructure in a AWS cloud environment. The competition was based on AWS Jam, where participants tackled technical challenges across various domains like security, DevOps, and data analytics.  I completed 8 challenges without using any clues, all within 45 minutes, and won the gold medal, showcasing my expertise in cloud computing.
+          <div style="display: flex; justify-content: space-between;">
+              <img src="images\SkillsOn.png" alt="Photo 1" style="width: 30%;"/>
+              <img src="images\SkillsOntario_Prof.jpeg" alt="Photo 2" style="width: 30%;"/>
+              <img src="images\Skill Ontario Time.png" alt="Photo 3" style="width: 30%;"/>
+          </div>
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
